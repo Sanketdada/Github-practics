@@ -9,7 +9,7 @@ public class Sanket
 	
 	public void sub1()
 	{
-		System.out.println("subtraction done by prasad sir");
+		System.out.println("sub done by prasad sir");
 	}
 
 	public static void main(String[] args) 

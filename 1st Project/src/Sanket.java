@@ -16,6 +16,7 @@ public class Sanket
 	{
 		Sanket s=new Sanket();
 		s.addition1();
+		s.sub1();
 	}
 
 }

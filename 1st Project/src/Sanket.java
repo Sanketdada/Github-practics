@@ -2,7 +2,7 @@
 public class Sanket 
 {
 	
-	public void addition()
+	public void addition1()
 	{
 		
 	}
@@ -10,7 +10,7 @@ public class Sanket
 	public static void main(String[] args) 
 	{
 		Sanket s=new Sanket();
-		s.addition();
+		s.addition1();
 	}
 
 }

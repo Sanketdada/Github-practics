@@ -11,11 +11,17 @@ public class Sanket
 	{
 		System.out.println("sub done by prasad sir");
 	}
+	
+	public void mul()
+	{
+		System.out.println("muultiplication");
+	}
 
 	public static void main(String[] args) 
 	{
 		Sanket s=new Sanket();
 		s.addition1();
+		s.mul();
 	}
 
 }
